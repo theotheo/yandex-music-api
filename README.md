@@ -42,3 +42,4 @@ This library provides following functions:
 
 #### Tracks
 - getTrack
+- getTrackSupplement
