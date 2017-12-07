@@ -39,3 +39,6 @@ This library provides following functions:
 - renamePlaylist
 - addTracksToPlaylist
 - removeTracksFromPlaylist
+
+#### Tracks
+- getTrack
